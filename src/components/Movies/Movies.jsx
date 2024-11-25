@@ -1,5 +1,5 @@
-import Movie from './Movie';
-import './Movies.scss';
+import Movie from '../Movie/Movie';
+import './Movies.css';
 
 function Movies({ movies }) {
     
